@@ -87,3 +87,9 @@ This chart shows total production batches completed by each operator. Charlie & 
 
 ![Batches Processed by Operator](Images/operator_volume.png)
 
+
+### Average Production Time by Flavor
+
+This chart shows the average production duration by product flavor. Orange had the longest average production time at 135 minutes.
+
+![Average Production Time by Flavor](Images/avg_production_time.png)
