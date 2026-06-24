@@ -84,6 +84,6 @@ This chart shows the total number of production batches completed for each produ
 
 ### Batches Processed by Operator
 
-This chart shows total production batches completed by each operator. Charlie processed the highest number of batches with 8.
+This chart shows total production batches completed by each operator. Charlie & Dee processed the highest number of batches with 11.
 
 ![Batches Processed by Operator](Images/operator_volume.png)
