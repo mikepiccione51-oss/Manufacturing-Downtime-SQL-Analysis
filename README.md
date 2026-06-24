@@ -1,7 +1,6 @@
 # Manufacturing Production & Downtime Analysis Using SQL
 
 ## Project Overview
-
 Manufacturing organizations must continuously monitor production efficiency and identify opportunities to reduce downtime and improve throughput.
 
 This project analyzes manufacturing production data using SQL to uncover operational trends, evaluate operator performance, and identify opportunities for process improvement.
