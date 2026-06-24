@@ -73,3 +73,10 @@ Manufacturing-Downtime-SQL-Analysis
 └── README.md
 ```
 
+## Visualizations
+
+### Production Volume by Flavor
+
+This chart shows the total number of production batches completed for each product flavor. Cola represented the highest production volume with 20 batches.
+
+![Production Volume by Flavor](Images/product_volume.png)
